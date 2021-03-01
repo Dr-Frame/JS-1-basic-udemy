@@ -28,4 +28,4 @@ console.log(a === b); */
 
 //console.log("Ежик" > "яблоко");
 
-console.log(0 || "" || 2 || undefined || true || false);
+//console.log(0 || "" || 2 || undefined || true || false); //2
